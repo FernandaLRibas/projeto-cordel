@@ -63,7 +63,6 @@ section.imagem {
     color: white;
     text-shadow: 1px 1px 0px black;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
-    background-size: cover;
     background-attachment: fixed;
 }
 section.imagem > p {
@@ -74,12 +73,13 @@ section.imagem > p {
 section#imagem1 {
   background-image: url('../imagens/background001pequeno.jpg');  
   background-position: center right;
+  background-size: cover;
   
   
 }
 section#imagem2 {
   background-image: url('../imagens/background002.jpg');
-  
+  background-size: cover;
 }
 footer {
     background-color: black;
