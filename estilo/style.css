@@ -72,9 +72,9 @@ section.imagem > p {
   padding: 5px;
 }
 section#imagem1 {
-  background-image: url('../imagens/background001pq.jpg');  
-  background-position: center center;
-  background-position: no-repeat;
+  background-image: url('../imagens/background001pequeno.jpg');  
+  background-position: center right;
+  
   
 }
 section#imagem2 {
