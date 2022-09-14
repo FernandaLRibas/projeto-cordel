@@ -73,7 +73,8 @@ section.imagem > p {
 }
 section#imagem1 {
   background-image: url('../imagens/background001pq.jpg');  
-  background-position: right center;
+  background-position: center center;
+  background-position: no-repeat;
   
 }
 section#imagem2 {
