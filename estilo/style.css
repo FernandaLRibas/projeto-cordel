@@ -74,13 +74,14 @@ section#imagem1 {
   background-image: url('../imagens/background001pequeno.jpg');  
   background-position: center right;
   background-size: cover;
-  height: 98vh;
+  height: 50vh;
   
   
 }
 section#imagem2 {
   background-image: url('../imagens/background002.jpg');
   background-size: cover;
+  height: 50vh;
 }
 footer {
     background-color: black;
