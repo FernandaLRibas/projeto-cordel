@@ -73,8 +73,8 @@ section.imagem > p {
 section#imagem1 {
   background-image: url('../imagens/background001.jpg');  
   background-position: center right;
-  background-size: contain;
-  background-size: cover;
+  background-size: contain cover;
+  
   
   
   
